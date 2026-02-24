@@ -69,24 +69,42 @@ const Footer = () => {
           <ul className="mt-4 text-sm text-muted-foreground space-y-3">
             <li>
               <Link
-                href="mailto:help@viewr.in"
+                href="mailto:yash@sudocodes.com"
                 className="hover:text-foreground transition-all duration-300 flex items-center gap-2 group"
               >
                 <div className="w-6 h-6 flex items-center justify-center">
                   <Mail className="w-4 h-4" />
                 </div>
-                <span>help@viewr.in</span>
+                <span>yash@sudocodes.com</span>
+              </Link>
+              <Link
+                href="mailto:prabal@sudocodes.com"
+                className="hover:text-foreground transition-all duration-300 flex items-center gap-2 group"
+              >
+                <div className="w-6 h-6 flex items-center justify-center">
+                  <Mail className="w-4 h-4" />
+                </div>
+                <span>prabal@sudocodes.com</span>
               </Link>
             </li>
             <li>
               <Link
-                href="tel:+919891367183"
+                href="tel:+918755765125"
                 className="hover:text-foreground transition-all duration-300 flex items-center gap-2 group"
               >
                 <div className="w-6 h-6 flex items-center justify-center">
                   <Phone className="w-4 h-4" />
                 </div>
-                <span>+91 98913 67183</span>
+                <span>+91 8755765125</span>
+              </Link>
+              <Link
+                href="tel:+918770877703"
+                className="hover:text-foreground transition-all duration-300 flex items-center gap-2 group"
+              >
+                <div className="w-6 h-6 flex items-center justify-center">
+                  <Phone className="w-4 h-4" />
+                </div>
+                <span>+91 8770877703</span>
               </Link>
             </li>
             <li>
@@ -100,8 +118,7 @@ const Footer = () => {
                   <MapPin className="w-4 h-4" />
                 </div>
                 <span>
-                  Tower 4, DLF CORPORATE GREENS, 2114-17, Sector 74A, Gurugram,
-                  Haryana 122004
+                  2nd Floor, Spandana Building, Whitefield, Bangalore, Karnataka 560066
                 </span>
               </Link>
             </li>

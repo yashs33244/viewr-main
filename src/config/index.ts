@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 
-export const calendlyUrl = "https://calendly.com/yash-viewr/30min";
+export const calendlyUrl = "https://calendly.com/meet-prabal/let-s-discuss";
 
 export const SITE_CONFIG: Metadata = {
     title: {
@@ -28,7 +28,7 @@ export const SITE_CONFIG: Metadata = {
     },
     twitter: {
         card: "summary_large_image",
-        creator: "@viewr_ai",
+        creator: "@viewr_in",
         title: "ViewR - AI Surveillance & Analytics Platform",
         description: "ViewR provides advanced AI surveillance solutions with 98% accuracy in recognition and comprehensive analytics. Transform your security with intelligent monitoring.",
         images: [
@@ -37,5 +37,5 @@ export const SITE_CONFIG: Metadata = {
             }
         ]
     },
-    metadataBase: new URL("https://viewr.ai"),
+    metadataBase: new URL("https://viewr.in"),
 };

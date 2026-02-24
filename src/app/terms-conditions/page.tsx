@@ -287,11 +287,10 @@ const TermsConditionsPage = () => {
               <div className="bg-gray-800 p-4 rounded-lg">
                 <p className="font-semibold">ViewR Private Limited</p>
                 <p>
-                  2114-17, Tower 4, DLF CORPORATE GREENS, Sector 74A, Gurugram,
-                  Haryana 122004
+                  2nd Floor, Spandana Building, Whitefield, Bangalore, Karnataka 560066
                 </p>
-                <p>Email: help@viewr.in</p>
-                <p>Phone: +91 98913 67183</p>
+                <p>Email: prabal@sudocodes.com</p>
+                <p>Phone: +91 8770877703</p>
               </div>
             </div>
           </div>
